@@ -11,15 +11,11 @@
 
 </div>
 
----
-
 ## Who We Are
 
 We are **FinHorizons Foundation** — an open research community for responsible AI in finance. Our mission is to advance the responsible development and use of AI in finance through open research, education and collaboration.
 
 Our community brings together **researchers, industry professionals, students, and community partners**. Whether you study it, build it, fund it, or live it, there's a place for you here.
-
----
 
 ## What We Do
 
@@ -29,8 +25,6 @@ Bring a challenge from finance or any other field. We believe in multidisciplina
 - **Formalize** — Our team structures the best challenges into well-defined research proposals
 - **Collaborate** — We bring together researchers worldwide to collaborate and build solutions as a team
 - **Ship** — Research published. Code open-sourced. Solutions given back to the community
-
----
 
 ## Why We Do It
 
@@ -42,8 +36,6 @@ We work towards financial AI that is **fair, transparent, accountable and benefi
 - **Fairness & Inclusion** — Explore who benefits from financial AI, who may be excluded, and how systems can better serve different people and communities
 - **Transparency & Accountability** — Make financial AI easier to understand, evaluate and challenge, with meaningful human oversight and responsibility
 - **Research for Public Benefit** — Connect open research and education with practical questions about how AI can improve finance for society
-
----
 
 <div align="center">
 
