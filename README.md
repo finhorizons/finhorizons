@@ -23,9 +23,9 @@ Our community brings together **researchers, industry professionals, students, a
 
 ## What We Do
 
-Bring a challenge in financial AI. Explore it with researchers, practitioners and the people it affects.
+Bring a challenge from finance or any other field. We believe in multidisciplinary research: ideas from one field can reveal new questions and solutions in another.
 
-- **Share** — Tell us where AI in finance could be fairer, safer or more useful
+- **Share** — Tell us where AI could be fairer, safer or more useful
 - **Formalize** — Our team structures the best challenges into well-defined research proposals
 - **Collaborate** — We bring together researchers worldwide to collaborate and build solutions as a team
 - **Ship** — Research published. Code open-sourced. Solutions given back to the community
